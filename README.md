@@ -13,7 +13,7 @@ class Developer:
     def __init__(self):
         self.name = "Timur Sabyrov"
         self.role = "Python Developer & Prompt Engineer"
-        self.location = "🌍"
+        self.location = "🇰🇬"
         self.passions = ["coding", "servers", "automation", "AI"]
         self.currently_learning = ["docker", "cloud architecture", "k8s"]
     
